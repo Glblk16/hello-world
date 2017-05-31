@@ -3,4 +3,5 @@ Training repository
 
 Hello!
 
-sometext sometext sometext sometext...
+sometext sometext sometext sometext... no
+
